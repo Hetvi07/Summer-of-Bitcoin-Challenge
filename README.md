@@ -13,4 +13,3 @@ This approach uses the Knapsack algorithm using greedy method and its time compl
 ## Output:![image](https://user-images.githubusercontent.com/61374478/122664081-c4c16e80-d1bc-11eb-97bf-fb718141fcdd.png)
 
 
->>>>>>> 731d5a302c32fa019010570eb1a6387a2425c1b0
