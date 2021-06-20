@@ -1,7 +1,5 @@
 # Summer-of-Bitcoin-Challenge
 
-<<<<<<< HEAD
-=======
 Task - 1
 
 This approach uses the Knapsack algorithm using greedy method and its time complexity is **O(n²)**. 
